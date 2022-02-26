@@ -1,0 +1,1102 @@
+2022-01-17 10:46:52,377 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-17 10:47:06,410 - logger_File -INFO - Text verified!
+2022-01-17 10:47:06,411 - logger_File -INFO - Homepage validated successfully
+2022-01-17 10:47:06,781 - logger_File -INFO - My account button was clicked successfully
+2022-01-17 10:47:07,107 - logger_File -INFO - Login button was clicked successfully
+2022-01-17 10:47:07,377 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-17 10:47:07,792 - logger_File -INFO - Login button was clicked successfully
+2022-01-17 10:47:12,317 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-17 10:47:12,342 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-01-17 10:47:14,628 - logger_File -INFO - Text verified!
+2022-01-17 10:47:14,629 - logger_File -INFO - Homepage validated successfully
+2022-01-17 10:47:15,151 - logger_File -INFO - My account button was clicked successfully
+2022-01-17 10:47:15,821 - logger_File -INFO - Register button was clicked successfully
+2022-01-17 10:47:16,459 - logger_File -INFO - User data entered successfully
+2022-01-17 10:47:16,548 - logger_File -INFO - Agree to terms check box selected successfully
+2022-01-17 10:47:16,942 - logger_File -INFO - Continue button clicked successfully
+2022-01-17 10:47:23,096 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-01-17 10:47:51,116 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-17 10:47:54,313 - logger_File -INFO - Text verified!
+2022-01-17 10:47:54,315 - logger_File -INFO - Homepage validated successfully
+2022-01-17 10:47:54,610 - logger_File -INFO - My account button was clicked successfully
+2022-01-17 10:47:54,923 - logger_File -INFO - Login button was clicked successfully
+2022-01-17 10:47:55,217 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-17 10:47:55,618 - logger_File -INFO - Login button was clicked successfully
+2022-01-17 10:47:56,306 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-17 10:47:56,329 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-01-17 10:47:58,948 - logger_File -INFO - Text verified!
+2022-01-17 10:47:58,948 - logger_File -INFO - Homepage validated successfully
+2022-01-17 10:47:59,387 - logger_File -INFO - My account button was clicked successfully
+2022-01-17 10:48:00,159 - logger_File -INFO - Register button was clicked successfully
+2022-01-17 10:48:00,789 - logger_File -INFO - User data entered successfully
+2022-01-17 10:48:00,909 - logger_File -INFO - Agree to terms check box selected successfully
+2022-01-17 10:48:02,203 - logger_File -INFO - Continue button clicked successfully
+2022-01-17 10:48:08,486 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-01-17 10:49:53,431 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-17 10:49:56,355 - logger_File -INFO - Text verified!
+2022-01-17 10:49:56,356 - logger_File -INFO - Homepage validated successfully
+2022-01-17 10:49:56,641 - logger_File -INFO - My account button was clicked successfully
+2022-01-17 10:49:56,930 - logger_File -INFO - Login button was clicked successfully
+2022-01-17 10:49:57,136 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-17 10:49:57,492 - logger_File -INFO - Login button was clicked successfully
+2022-01-17 10:49:57,733 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-17 10:49:57,755 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-01-17 10:49:59,975 - logger_File -INFO - Text verified!
+2022-01-17 10:49:59,976 - logger_File -INFO - Homepage validated successfully
+2022-01-17 10:50:00,335 - logger_File -INFO - My account button was clicked successfully
+2022-01-17 10:50:01,032 - logger_File -INFO - Register button was clicked successfully
+2022-01-17 10:50:01,562 - logger_File -INFO - User data entered successfully
+2022-01-17 10:50:01,627 - logger_File -INFO - Agree to terms check box selected successfully
+2022-01-17 10:50:01,972 - logger_File -INFO - Continue button clicked successfully
+2022-01-17 10:50:08,168 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-01-17 10:55:53,738 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-17 10:55:56,606 - logger_File -INFO - Text verified!
+2022-01-17 10:55:56,607 - logger_File -INFO - Homepage validated successfully
+2022-01-17 10:55:56,959 - logger_File -INFO - My account button was clicked successfully
+2022-01-17 10:55:57,228 - logger_File -INFO - Login button was clicked successfully
+2022-01-17 10:55:57,473 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-17 10:55:57,833 - logger_File -INFO - Login button was clicked successfully
+2022-01-17 10:55:58,310 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-17 10:55:58,333 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-01-17 10:56:00,475 - logger_File -INFO - Text verified!
+2022-01-17 10:56:00,475 - logger_File -INFO - Homepage validated successfully
+2022-01-17 10:56:00,899 - logger_File -INFO - My account button was clicked successfully
+2022-01-17 10:56:01,662 - logger_File -INFO - Register button was clicked successfully
+2022-01-17 10:56:02,273 - logger_File -INFO - User data entered successfully
+2022-01-17 10:56:02,350 - logger_File -INFO - Agree to terms check box selected successfully
+2022-01-17 10:56:02,690 - logger_File -INFO - Continue button clicked successfully
+2022-01-17 10:56:08,900 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-01-17 19:25:06,922 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-17 19:25:10,913 - logger_File -INFO - Text verified!
+2022-01-17 19:25:10,913 - logger_File -INFO - Homepage validated successfully
+2022-01-17 19:25:11,200 - logger_File -INFO - My account button was clicked successfully
+2022-01-17 19:25:11,484 - logger_File -INFO - Login button was clicked successfully
+2022-01-17 19:25:11,712 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-17 19:25:12,129 - logger_File -INFO - Login button was clicked successfully
+2022-01-17 19:25:12,545 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-17 19:25:12,575 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-01-17 19:25:15,019 - logger_File -INFO - Text verified!
+2022-01-17 19:25:15,020 - logger_File -INFO - Homepage validated successfully
+2022-01-17 19:25:15,331 - logger_File -INFO - My account button was clicked successfully
+2022-01-17 19:25:16,080 - logger_File -INFO - Register button was clicked successfully
+2022-01-17 19:25:16,605 - logger_File -INFO - User data entered successfully
+2022-01-17 19:25:16,670 - logger_File -INFO - Agree to terms check box selected successfully
+2022-01-17 19:25:17,009 - logger_File -INFO - Continue button clicked successfully
+2022-01-17 19:25:23,224 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-01-18 19:40:14,721 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-18 19:40:21,130 - logger_File -INFO - Text verified!
+2022-01-18 19:40:21,131 - logger_File -INFO - Homepage validated successfully
+2022-01-18 19:40:21,439 - logger_File -INFO - My account button was clicked successfully
+2022-01-18 19:40:21,784 - logger_File -INFO - Login button was clicked successfully
+2022-01-18 19:40:22,073 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-18 19:40:22,467 - logger_File -INFO - Login button was clicked successfully
+2022-01-18 19:40:22,935 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-18 19:40:22,955 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-01-18 19:40:25,609 - logger_File -INFO - Text verified!
+2022-01-18 19:40:25,610 - logger_File -INFO - Homepage validated successfully
+2022-01-18 19:40:26,095 - logger_File -INFO - My account button was clicked successfully
+2022-01-18 19:40:26,852 - logger_File -INFO - Register button was clicked successfully
+2022-01-18 19:40:27,566 - logger_File -INFO - User data entered successfully
+2022-01-18 19:40:27,666 - logger_File -INFO - Agree to terms check box selected successfully
+2022-01-18 19:40:28,017 - logger_File -INFO - Continue button clicked successfully
+2022-01-18 19:40:34,398 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-01-20 21:04:17,177 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-20 21:04:29,483 - logger_File -INFO - Text verified!
+2022-01-20 21:04:29,484 - logger_File -INFO - Homepage validated successfully
+2022-01-20 21:04:30,247 - logger_File -INFO - My account button was clicked successfully
+2022-01-20 21:04:31,273 - logger_File -INFO - Login button was clicked successfully
+2022-01-20 21:04:32,137 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-20 21:04:33,245 - logger_File -INFO - Login button was clicked successfully
+2022-01-20 21:04:40,818 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-20 21:04:40,920 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-01-20 21:04:48,516 - logger_File -INFO - Text verified!
+2022-01-20 21:04:48,518 - logger_File -INFO - Homepage validated successfully
+2022-01-20 21:04:49,126 - logger_File -INFO - My account button was clicked successfully
+2022-01-20 21:04:51,073 - logger_File -INFO - Register button was clicked successfully
+2022-01-20 21:04:53,568 - logger_File -INFO - User data entered successfully
+2022-01-20 21:04:53,770 - logger_File -INFO - Agree to terms check box selected successfully
+2022-01-20 21:04:54,538 - logger_File -INFO - Continue button clicked successfully
+2022-01-20 21:05:03,175 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-01-31 14:23:19,624 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-31 14:23:32,890 - logger_File -INFO - Text verified!
+2022-01-31 14:23:32,891 - logger_File -INFO - Homepage validated successfully
+2022-01-31 14:23:33,143 - logger_File -INFO - My account button was clicked successfully
+2022-01-31 14:23:33,421 - logger_File -INFO - Login button was clicked successfully
+2022-01-31 14:23:33,612 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-31 14:23:34,002 - logger_File -INFO - Login button was clicked successfully
+2022-01-31 14:23:34,353 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-31 14:23:34,377 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-01-31 14:23:37,401 - logger_File -INFO - Text verified!
+2022-01-31 14:23:37,401 - logger_File -INFO - Homepage validated successfully
+2022-01-31 14:23:37,613 - logger_File -INFO - My account button was clicked successfully
+2022-01-31 14:23:38,281 - logger_File -INFO - Register button was clicked successfully
+2022-01-31 14:23:38,706 - logger_File -INFO - User data entered successfully
+2022-01-31 14:23:38,757 - logger_File -INFO - Agree to terms check box selected successfully
+2022-01-31 14:23:39,057 - logger_File -INFO - Continue button clicked successfully
+2022-01-31 14:23:45,267 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-02-04 16:47:10,475 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-02-04 16:47:20,351 - logger_File -INFO - Text verified!
+2022-02-04 16:47:20,352 - logger_File -INFO - Homepage validated successfully
+2022-02-04 16:47:20,575 - logger_File -INFO - My account button was clicked successfully
+2022-02-04 16:47:20,808 - logger_File -INFO - Login button was clicked successfully
+2022-02-04 16:47:21,047 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-04 16:47:21,530 - logger_File -INFO - Login button was clicked successfully
+2022-02-04 16:47:21,913 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-02-04 16:47:21,935 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-04 16:47:24,036 - logger_File -INFO - Text verified!
+2022-02-04 16:47:24,036 - logger_File -INFO - Homepage validated successfully
+2022-02-04 16:47:24,422 - logger_File -INFO - My account button was clicked successfully
+2022-02-04 16:47:25,113 - logger_File -INFO - Register button was clicked successfully
+2022-02-04 16:47:25,506 - logger_File -INFO - User data entered successfully
+2022-02-07 09:18:14,460 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-02-07 09:18:22,031 - logger_File -INFO - Text verified!
+2022-02-07 09:18:22,032 - logger_File -INFO - Homepage validated successfully
+2022-02-07 09:18:22,268 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 09:18:22,707 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 09:18:22,875 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-07 09:18:25,042 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 09:18:25,256 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-02-07 09:18:25,281 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-07 09:18:30,788 - logger_File -INFO - Text verified!
+2022-02-07 09:18:30,788 - logger_File -INFO - Homepage validated successfully
+2022-02-07 09:18:30,980 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 09:18:33,031 - logger_File -INFO - Register button was clicked successfully
+2022-02-07 09:18:33,473 - logger_File -INFO - User data entered successfully
+2022-02-07 09:20:37,217 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-02-07 09:20:47,039 - logger_File -INFO - Text verified!
+2022-02-07 09:20:47,040 - logger_File -INFO - Homepage validated successfully
+2022-02-07 09:20:47,276 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 09:20:48,036 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 09:20:48,204 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-07 09:20:48,670 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 09:20:48,937 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-02-07 09:20:48,963 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-07 09:20:51,851 - logger_File -INFO - Text verified!
+2022-02-07 09:20:51,852 - logger_File -INFO - Homepage validated successfully
+2022-02-07 09:20:52,045 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 09:20:52,745 - logger_File -INFO - Register button was clicked successfully
+2022-02-07 09:20:53,115 - logger_File -INFO - User data entered successfully
+2022-02-07 09:21:23,339 - logger_File -INFO - Scenario Register with Test Environment Webpage FAILED
+2022-02-07 09:26:01,576 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-02-07 09:26:05,298 - logger_File -INFO - Text verified!
+2022-02-07 09:26:05,298 - logger_File -INFO - Homepage validated successfully
+2022-02-07 09:26:05,514 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 09:26:05,770 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 09:26:05,942 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-07 09:26:06,352 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 09:26:06,658 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-02-07 09:26:06,687 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-07 09:26:16,522 - logger_File -INFO - Text verified!
+2022-02-07 09:26:16,523 - logger_File -INFO - Homepage validated successfully
+2022-02-07 09:26:16,715 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 09:26:18,004 - logger_File -INFO - Register button was clicked successfully
+2022-02-07 09:26:18,494 - logger_File -INFO - User data entered successfully
+2022-02-07 09:26:48,667 - logger_File -INFO - Scenario Register with Test Environment Webpage FAILED
+2022-02-07 09:33:39,464 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-02-07 09:33:48,289 - logger_File -INFO - Text verified!
+2022-02-07 09:33:48,290 - logger_File -INFO - Homepage validated successfully
+2022-02-07 09:33:48,556 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 09:33:49,406 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 09:33:49,572 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-07 09:33:50,531 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 09:33:50,757 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-02-07 09:33:50,792 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-07 09:33:52,988 - logger_File -INFO - Text verified!
+2022-02-07 09:33:52,988 - logger_File -INFO - Homepage validated successfully
+2022-02-07 09:33:53,221 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 09:33:54,027 - logger_File -INFO - Register button was clicked successfully
+2022-02-07 09:33:54,427 - logger_File -INFO - User data entered successfully
+2022-02-07 09:34:24,626 - logger_File -INFO - Scenario Register with Test Environment Webpage FAILED
+2022-02-07 09:41:17,321 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-02-07 09:41:22,479 - logger_File -INFO - Text verified!
+2022-02-07 09:41:22,481 - logger_File -INFO - Homepage validated successfully
+2022-02-07 09:41:22,712 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 09:41:23,147 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 09:41:23,326 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-07 09:41:24,184 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 09:41:24,377 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-02-07 09:41:24,403 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-07 09:41:31,635 - logger_File -INFO - Text verified!
+2022-02-07 09:41:31,635 - logger_File -INFO - Homepage validated successfully
+2022-02-07 09:41:31,821 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 09:41:33,830 - logger_File -INFO - Register button was clicked successfully
+2022-02-07 09:41:34,342 - logger_File -INFO - User data entered successfully
+2022-02-07 09:42:04,584 - logger_File -INFO - Scenario Register with Test Environment Webpage FAILED
+2022-02-07 09:47:51,562 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-02-07 09:47:55,265 - logger_File -INFO - Text verified!
+2022-02-07 09:47:55,266 - logger_File -INFO - Homepage validated successfully
+2022-02-07 09:47:55,588 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 09:47:56,057 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 09:47:56,221 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-07 09:47:56,839 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 09:47:57,147 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-02-07 09:47:57,173 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-07 09:48:04,866 - logger_File -INFO - Text verified!
+2022-02-07 09:48:04,867 - logger_File -INFO - Homepage validated successfully
+2022-02-07 09:48:05,081 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 09:48:07,262 - logger_File -INFO - Register button was clicked successfully
+2022-02-07 09:48:07,638 - logger_File -INFO - User data entered successfully
+2022-02-07 09:48:37,811 - logger_File -INFO - Scenario Register with Test Environment Webpage FAILED
+2022-02-07 10:16:59,374 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-02-07 10:17:09,645 - logger_File -INFO - Text verified!
+2022-02-07 10:17:09,646 - logger_File -INFO - Homepage validated successfully
+2022-02-07 10:17:09,866 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 10:17:10,393 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 10:17:10,569 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-07 10:17:10,947 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 10:17:11,133 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-02-07 10:17:11,235 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-07 10:17:13,464 - logger_File -INFO - Text verified!
+2022-02-07 10:17:13,465 - logger_File -INFO - Homepage validated successfully
+2022-02-07 10:17:13,746 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 10:17:14,932 - logger_File -INFO - Register button was clicked successfully
+2022-02-07 10:17:15,330 - logger_File -INFO - User data entered successfully
+2022-02-07 10:17:45,530 - logger_File -INFO - Scenario Register with Test Environment Webpage FAILED
+2022-02-07 10:52:45,717 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-02-07 10:52:49,837 - logger_File -INFO - Text verified!
+2022-02-07 10:52:49,838 - logger_File -INFO - Homepage validated successfully
+2022-02-07 10:52:50,083 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 10:52:50,335 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 10:52:50,749 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-07 10:52:51,433 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 10:52:51,629 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-02-07 10:52:51,652 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-07 10:52:57,856 - logger_File -INFO - Text verified!
+2022-02-07 10:52:57,857 - logger_File -INFO - Homepage validated successfully
+2022-02-07 10:52:58,086 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 10:53:00,559 - logger_File -INFO - Register button was clicked successfully
+2022-02-07 10:53:01,206 - logger_File -INFO - User data entered successfully
+2022-02-07 10:53:31,404 - logger_File -INFO - Scenario Register with Test Environment Webpage FAILED
+2022-02-07 11:02:45,411 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-02-07 11:02:48,313 - logger_File -INFO - Text verified!
+2022-02-07 11:02:48,314 - logger_File -INFO - Homepage validated successfully
+2022-02-07 11:02:48,639 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 11:02:48,915 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 11:02:49,064 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-07 11:02:49,394 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 11:02:49,621 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-02-07 11:02:49,692 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-07 11:02:51,886 - logger_File -INFO - Text verified!
+2022-02-07 11:02:51,887 - logger_File -INFO - Homepage validated successfully
+2022-02-07 11:02:52,149 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 11:02:52,871 - logger_File -INFO - Register button was clicked successfully
+2022-02-07 11:02:53,229 - logger_File -INFO - User data entered successfully
+2022-02-07 11:03:27,491 - logger_File -INFO - Scenario Register with Test Environment Webpage FAILED
+2022-02-07 11:57:02,194 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-02-07 11:57:07,118 - logger_File -INFO - Text verified!
+2022-02-07 11:57:07,119 - logger_File -INFO - Homepage validated successfully
+2022-02-07 11:57:07,422 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 11:57:07,719 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 11:57:07,920 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-07 11:57:08,392 - logger_File -INFO - Login button was clicked successfully
+2022-02-07 11:57:08,547 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-02-07 11:57:08,574 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-07 11:57:15,033 - logger_File -INFO - Text verified!
+2022-02-07 11:57:15,034 - logger_File -INFO - Homepage validated successfully
+2022-02-07 11:57:15,228 - logger_File -INFO - My account button was clicked successfully
+2022-02-07 11:57:19,030 - logger_File -INFO - Register button was clicked successfully
+2022-02-07 11:57:19,456 - logger_File -INFO - User data entered successfully
+2022-02-07 11:57:49,621 - logger_File -INFO - Scenario Register with Test Environment Webpage FAILED
+2022-02-11 22:07:05,068 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-02-11 22:07:27,023 - logger_File -INFO - Text verified!
+2022-02-11 22:07:27,024 - logger_File -INFO - Homepage validated successfully
+2022-02-11 22:07:27,819 - logger_File -INFO - My account button was clicked successfully
+2022-02-11 22:07:28,240 - logger_File -INFO - Login button was clicked successfully
+2022-02-11 22:07:28,601 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-11 22:07:29,343 - logger_File -INFO - Login button was clicked successfully
+2022-02-11 22:07:30,316 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-02-11 22:07:30,372 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-11 22:07:35,288 - logger_File -INFO - Text verified!
+2022-02-11 22:07:35,288 - logger_File -INFO - Homepage validated successfully
+2022-02-11 22:07:35,816 - logger_File -INFO - My account button was clicked successfully
+2022-02-11 22:07:36,583 - logger_File -INFO - Register button was clicked successfully
+2022-02-11 22:07:37,547 - logger_File -INFO - User data entered successfully
+2022-02-11 22:07:37,684 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-11 22:07:38,700 - logger_File -INFO - Continue button clicked successfully
+2022-02-11 22:07:44,869 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-02-21 21:23:52,907 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-21 21:24:20,150 - logger_File -INFO - Home validated successfully
+2022-02-21 21:24:20,296 - logger_File -INFO - User clicked on currency successfuly! 
+2022-02-21 21:24:20,381 - logger_File -INFO - Currency was selected successfully
+2022-02-21 21:24:20,410 - logger_File -INFO - Currency value changed successfuly!
+2022-02-21 21:24:21,333 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-21 21:24:21,356 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-21 21:24:25,618 - logger_File -INFO - Home validated successfully
+2022-02-21 21:24:29,109 - logger_File -INFO - User clicked on shopping cart successfuly!
+2022-02-21 21:24:29,161 - logger_File -INFO - Cart is emty!
+2022-02-21 21:24:30,283 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-02-21 21:24:30,311 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-21 21:24:33,859 - logger_File -INFO - Home validated successfully
+2022-02-21 21:24:33,926 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-21 21:24:34,470 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-21 21:24:41,071 - logger_File -INFO - User can see size of items successfuly!
+2022-02-21 21:24:41,834 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-21 21:24:41,851 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-21 21:24:45,011 - logger_File -INFO - Home validated successfully
+2022-02-21 21:24:45,194 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-21 21:24:46,196 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-21 21:24:46,286 - logger_File -INFO - Enterd to HPLP by cliking add to cart button successfully!
+2022-02-21 21:24:47,815 - logger_File -INFO - User selected quantity successfuly!
+2022-02-21 21:24:48,163 - logger_File -INFO - Clicked on add to cart Button2 successfuly!
+2022-02-21 21:24:53,324 - logger_File -INFO - Success message showing and taken screenshot successfully!
+2022-02-21 21:24:58,139 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-02-21 21:24:58,152 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-21 21:25:01,515 - logger_File -INFO - Home validated successfully
+2022-02-21 21:25:01,580 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-21 21:25:02,466 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-21 21:25:02,516 - logger_File -INFO - User clicked  ADD TO CART option on ‘Canon EOS 5D’ item successfuly! 
+2022-02-21 21:25:11,725 - logger_File -INFO - User select color from dropdown Red successfuly! 
+2022-02-21 21:25:11,881 - logger_File -INFO - User selected quantity successfuly!
+2022-02-21 21:25:11,963 - logger_File -INFO - User click added to Cart buttonn successfuly!
+2022-02-21 21:25:15,319 - logger_File -INFO - User can see a message ‘Success: You have added Canon EOS 5D to your shopping cart! successfuly!
+2022-02-21 21:25:20,103 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-21 21:25:20,116 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-21 21:25:23,530 - logger_File -INFO - Home validated successfully
+2022-02-21 21:25:23,594 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-21 21:25:24,387 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-21 21:25:29,185 - logger_File -INFO - User clicked on Canon EOS 5D item successfuly!
+2022-02-21 21:25:29,261 - logger_File -INFO - User clicked on write a review link successfuly!
+2022-02-21 21:25:30,213 - logger_File -INFO - User filled the review information with below information successfuly!
+2022-02-21 21:25:30,446 - logger_File -INFO - User clicked on Continue Button successfuly!
+2022-02-21 21:25:33,564 - logger_File -INFO - User can see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval. Succesfuly!
+2022-02-21 21:25:38,368 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-02-21 21:25:38,392 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-21 21:25:41,443 - logger_File -INFO - User can see Retail website this
+2022-02-21 21:25:41,595 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-21 21:25:42,017 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-21 21:25:43,301 - logger_File -INFO - User clicked on MacBook  item
+2022-02-21 21:25:43,476 - logger_File -INFO - User clicked add to Cart button this
+2022-02-21 21:25:43,629 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-02-21 21:25:46,668 - logger_File -INFO - User should see '1 item(s) - $602.00' showed to the cart
+2022-02-21 21:25:49,825 - logger_File -INFO - User clicked on cart option
+2022-02-21 21:25:53,008 - logger_File -INFO - user clicked on red X button to remove the item from cart
+2022-02-21 21:25:53,123 - logger_File -INFO - item removed
+2022-02-21 21:25:57,895 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-02-21 21:25:57,920 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-21 21:26:00,866 - logger_File -INFO - User can see Retail website this
+2022-02-21 21:26:01,020 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-21 21:26:01,485 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-21 21:26:01,540 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2022-02-21 21:26:01,614 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook Air
+2022-02-21 21:26:01,782 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-02-21 21:26:04,220 - logger_File -INFO - User clicked on Product comparison link
+2022-02-21 21:26:04,420 - logger_File -INFO - User can see Product Comparison Chart
+2022-02-21 21:26:05,134 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-02-21 21:26:05,149 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-21 21:26:08,197 - logger_File -INFO - User can see Retail website this
+2022-02-21 21:26:08,355 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-21 21:26:08,847 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-21 21:26:08,920 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-02-21 21:26:09,034 - logger_File -INFO - Text verified!
+2022-02-21 21:26:09,250 - logger_File -INFO - User can get a message ‘You must login or create an account to save Sony VAIO to your wish list!’
+2022-02-21 21:26:10,113 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-21 21:26:10,134 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-21 21:26:13,112 - logger_File -INFO - User can see Retail website this
+2022-02-21 21:26:13,255 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-21 21:26:13,848 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-21 21:26:15,235 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2022-02-21 21:26:15,267 - logger_File -INFO - Price verified!
+2022-02-21 21:26:15,407 - logger_File -INFO - User should see 'dolarSign two thousands' price tag is present on UI
+2022-02-21 21:26:20,156 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-21 21:26:20,170 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-21 21:26:23,123 - logger_File -INFO - Text verified!
+2022-02-21 21:26:23,123 - logger_File -INFO - Homepage validated successfully
+2022-02-21 21:26:23,348 - logger_File -INFO - My account button was clicked successfully
+2022-02-21 21:26:24,102 - logger_File -INFO - Register button was clicked successfully
+2022-02-21 21:26:24,673 - logger_File -INFO - User data entered successfully
+2022-02-21 21:26:26,790 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-21 21:26:27,140 - logger_File -INFO - Continue button clicked successfully
+2022-02-21 21:26:33,922 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-02-21 21:26:33,938 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-21 21:26:37,137 - logger_File -INFO - Home validated successfully
+2022-02-21 21:26:37,196 - logger_File -INFO - User clicked  on MyAccount
+2022-02-21 21:26:37,540 - logger_File -INFO - User clicked on Login
+2022-02-21 21:26:37,736 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-21 21:26:38,016 - logger_File -INFO - User clicked on Login button
+2022-02-21 21:26:38,759 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-21 21:26:38,770 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-21 21:26:41,968 - logger_File -INFO - Home validated successfully
+2022-02-21 21:26:42,036 - logger_File -INFO - User clicked  on MyAccount
+2022-02-21 21:26:42,689 - logger_File -INFO - User clicked on Login
+2022-02-21 21:26:42,908 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-21 21:26:43,173 - logger_File -INFO - User clicked on Login button
+2022-02-21 21:26:44,051 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-02-21 21:26:44,058 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-21 21:26:47,587 - logger_File -INFO - Home validated successfully
+2022-02-21 21:26:47,654 - logger_File -INFO - User clicked  on MyAccount
+2022-02-21 21:26:48,098 - logger_File -INFO - User clicked on Login
+2022-02-21 21:26:48,300 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-21 21:26:48,580 - logger_File -INFO - User clicked on Login button
+2022-02-21 21:26:49,308 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-02-21 21:31:58,037 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-21 21:32:01,800 - logger_File -INFO - Home validated successfully
+2022-02-21 21:32:02,114 - logger_File -INFO - User clicked on currency successfuly! 
+2022-02-21 21:32:02,192 - logger_File -INFO - Currency was selected successfully
+2022-02-21 21:32:02,229 - logger_File -INFO - Currency value changed successfuly!
+2022-02-21 21:32:03,162 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-21 21:32:03,194 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-21 21:32:06,124 - logger_File -INFO - Home validated successfully
+2022-02-21 21:32:09,807 - logger_File -INFO - User clicked on shopping cart successfuly!
+2022-02-21 21:32:09,872 - logger_File -INFO - Cart is emty!
+2022-02-21 21:32:10,780 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-02-21 21:32:10,796 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-21 21:32:13,863 - logger_File -INFO - Home validated successfully
+2022-02-21 21:32:13,926 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-21 21:32:14,713 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-21 21:32:21,136 - logger_File -INFO - User can see size of items successfuly!
+2022-02-21 21:32:21,887 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-21 21:32:21,901 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-21 21:32:24,809 - logger_File -INFO - Home validated successfully
+2022-02-21 21:32:24,874 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-21 21:32:26,187 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-21 21:32:26,269 - logger_File -INFO - Enterd to HPLP by cliking add to cart button successfully!
+2022-02-21 21:32:27,873 - logger_File -INFO - User selected quantity successfuly!
+2022-02-21 21:32:28,150 - logger_File -INFO - Clicked on add to cart Button2 successfuly!
+2022-02-21 21:32:33,307 - logger_File -INFO - Success message showing and taken screenshot successfully!
+2022-02-21 21:32:38,141 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-02-21 21:32:38,152 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-21 21:32:41,058 - logger_File -INFO - Home validated successfully
+2022-02-21 21:32:41,103 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-21 21:32:42,196 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-21 21:32:42,282 - logger_File -INFO - User clicked  ADD TO CART option on ‘Canon EOS 5D’ item successfuly! 
+2022-02-21 21:32:51,453 - logger_File -INFO - User select color from dropdown Red successfuly! 
+2022-02-21 21:32:51,617 - logger_File -INFO - User selected quantity successfuly!
+2022-02-21 21:32:51,684 - logger_File -INFO - User click added to Cart buttonn successfuly!
+2022-02-21 21:32:54,989 - logger_File -INFO - User can see a message ‘Success: You have added Canon EOS 5D to your shopping cart! successfuly!
+2022-02-21 21:32:59,771 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-21 21:32:59,790 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-21 21:33:02,603 - logger_File -INFO - Home validated successfully
+2022-02-21 21:33:02,655 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-21 21:33:03,211 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-21 21:33:07,397 - logger_File -INFO - User clicked on Canon EOS 5D item successfuly!
+2022-02-21 21:33:07,496 - logger_File -INFO - User clicked on write a review link successfuly!
+2022-02-21 21:33:08,153 - logger_File -INFO - User filled the review information with below information successfuly!
+2022-02-21 21:33:08,250 - logger_File -INFO - User clicked on Continue Button successfuly!
+2022-02-21 21:33:11,380 - logger_File -INFO - User can see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval. Succesfuly!
+2022-02-21 21:33:16,241 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-02-21 21:33:16,269 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-21 21:33:20,312 - logger_File -INFO - User can see Retail website this
+2022-02-21 21:33:20,469 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-21 21:33:20,916 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-21 21:33:22,340 - logger_File -INFO - User clicked on MacBook  item
+2022-02-21 21:33:22,493 - logger_File -INFO - User clicked add to Cart button this
+2022-02-21 21:33:22,672 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-02-21 21:33:25,713 - logger_File -INFO - User should see '1 item(s) - $602.00' showed to the cart
+2022-02-21 21:33:28,977 - logger_File -INFO - User clicked on cart option
+2022-02-21 21:33:32,111 - logger_File -INFO - user clicked on red X button to remove the item from cart
+2022-02-21 21:33:32,222 - logger_File -INFO - item removed
+2022-02-21 21:33:33,035 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-02-21 21:33:33,047 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-21 21:33:35,965 - logger_File -INFO - User can see Retail website this
+2022-02-21 21:33:36,117 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-21 21:33:36,603 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-21 21:33:36,655 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2022-02-21 21:33:36,738 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook Air
+2022-02-21 21:33:37,000 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-02-21 21:33:39,563 - logger_File -INFO - User clicked on Product comparison link
+2022-02-21 21:33:39,792 - logger_File -INFO - User can see Product Comparison Chart
+2022-02-21 21:33:40,567 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-02-21 21:33:40,577 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-21 21:33:43,841 - logger_File -INFO - User can see Retail website this
+2022-02-21 21:33:44,029 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-21 21:33:44,518 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-21 21:33:44,608 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-02-21 21:33:44,729 - logger_File -INFO - Text verified!
+2022-02-21 21:33:44,941 - logger_File -INFO - User can get a message ‘You must login or create an account to save Sony VAIO to your wish list!’
+2022-02-21 21:33:45,755 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-21 21:33:45,763 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-21 21:33:48,529 - logger_File -INFO - User can see Retail website this
+2022-02-21 21:33:48,724 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-21 21:33:49,306 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-21 21:33:50,695 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2022-02-21 21:33:50,720 - logger_File -INFO - Price verified!
+2022-02-21 21:33:50,833 - logger_File -INFO - User should see 'dolarSign two thousands' price tag is present on UI
+2022-02-21 21:33:51,595 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-21 21:33:51,607 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-21 21:33:54,521 - logger_File -INFO - Text verified!
+2022-02-21 21:33:54,522 - logger_File -INFO - Homepage validated successfully
+2022-02-21 21:33:54,746 - logger_File -INFO - My account button was clicked successfully
+2022-02-21 21:33:55,443 - logger_File -INFO - Register button was clicked successfully
+2022-02-21 21:33:56,181 - logger_File -INFO - User data entered successfully
+2022-02-21 21:33:58,245 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-21 21:33:58,545 - logger_File -INFO - Continue button clicked successfully
+2022-02-21 21:34:05,429 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-02-21 21:34:05,448 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-21 21:34:08,632 - logger_File -INFO - Home validated successfully
+2022-02-21 21:34:08,694 - logger_File -INFO - User clicked  on MyAccount
+2022-02-21 21:34:09,458 - logger_File -INFO - User clicked on Login
+2022-02-21 21:34:09,631 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-21 21:34:10,006 - logger_File -INFO - User clicked on Login button
+2022-02-21 21:34:10,768 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-21 21:34:10,779 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-21 21:34:13,708 - logger_File -INFO - Home validated successfully
+2022-02-21 21:34:13,781 - logger_File -INFO - User clicked  on MyAccount
+2022-02-21 21:34:14,177 - logger_File -INFO - User clicked on Login
+2022-02-21 21:34:14,390 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-21 21:34:14,743 - logger_File -INFO - User clicked on Login button
+2022-02-21 21:34:15,563 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-02-21 21:34:15,570 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-21 21:34:23,300 - logger_File -INFO - Home validated successfully
+2022-02-21 21:34:23,393 - logger_File -INFO - User clicked  on MyAccount
+2022-02-21 21:34:24,061 - logger_File -INFO - User clicked on Login
+2022-02-21 21:34:24,277 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-21 21:34:24,780 - logger_File -INFO - User clicked on Login button
+2022-02-21 21:34:25,569 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-02-21 21:44:44,094 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-21 21:44:48,480 - logger_File -INFO - Home validated successfully
+2022-02-21 21:44:48,924 - logger_File -INFO - User clicked on currency successfuly! 
+2022-02-21 21:44:49,018 - logger_File -INFO - Currency was selected successfully
+2022-02-21 21:44:49,048 - logger_File -INFO - Currency value changed successfuly!
+2022-02-21 21:44:50,062 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-21 21:44:50,084 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-21 21:44:53,837 - logger_File -INFO - Home validated successfully
+2022-02-21 21:44:57,168 - logger_File -INFO - User clicked on shopping cart successfuly!
+2022-02-21 21:44:57,207 - logger_File -INFO - Cart is emty!
+2022-02-21 21:44:58,361 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-02-21 21:44:58,377 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-21 21:45:01,257 - logger_File -INFO - Home validated successfully
+2022-02-21 21:45:01,310 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-21 21:45:02,166 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-21 21:45:08,732 - logger_File -INFO - User can see size of items successfuly!
+2022-02-21 21:45:09,503 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-21 21:45:09,520 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-21 21:45:12,658 - logger_File -INFO - Home validated successfully
+2022-02-21 21:45:12,734 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-21 21:45:13,452 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-21 21:45:13,514 - logger_File -INFO - Enterd to HPLP by cliking add to cart button successfully!
+2022-02-21 21:45:14,974 - logger_File -INFO - User selected quantity successfuly!
+2022-02-21 21:45:15,413 - logger_File -INFO - Clicked on add to cart Button2 successfuly!
+2022-02-21 21:45:20,578 - logger_File -INFO - Success message showing and taken screenshot successfully!
+2022-02-21 21:45:25,344 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-02-21 21:45:25,379 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-21 21:45:28,342 - logger_File -INFO - Home validated successfully
+2022-02-21 21:45:28,557 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-21 21:45:29,655 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-21 21:45:29,735 - logger_File -INFO - User clicked  ADD TO CART option on ‘Canon EOS 5D’ item successfuly! 
+2022-02-21 21:45:38,939 - logger_File -INFO - User select color from dropdown Red successfuly! 
+2022-02-21 21:45:39,085 - logger_File -INFO - User selected quantity successfuly!
+2022-02-21 21:45:39,140 - logger_File -INFO - User click added to Cart buttonn successfuly!
+2022-02-21 21:45:42,446 - logger_File -INFO - User can see a message ‘Success: You have added Canon EOS 5D to your shopping cart! successfuly!
+2022-02-21 21:45:47,255 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-21 21:45:47,312 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-21 21:45:50,215 - logger_File -INFO - Home validated successfully
+2022-02-21 21:45:50,276 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-21 21:45:51,521 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-21 21:45:55,646 - logger_File -INFO - User clicked on Canon EOS 5D item successfuly!
+2022-02-21 21:45:55,728 - logger_File -INFO - User clicked on write a review link successfuly!
+2022-02-21 21:45:56,240 - logger_File -INFO - User filled the review information with below information successfuly!
+2022-02-21 21:45:56,340 - logger_File -INFO - User clicked on Continue Button successfuly!
+2022-02-21 21:45:59,479 - logger_File -INFO - User can see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval. Succesfuly!
+2022-02-21 21:46:04,309 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-02-21 21:46:04,334 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-21 21:46:07,117 - logger_File -INFO - User can see Retail website this
+2022-02-21 21:46:07,254 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-21 21:46:08,492 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-21 21:46:11,191 - logger_File -INFO - User clicked on MacBook  item
+2022-02-21 21:46:11,297 - logger_File -INFO - User clicked add to Cart button this
+2022-02-21 21:46:11,448 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-02-21 21:46:14,653 - logger_File -INFO - User should see '1 item(s) - $602.00' showed to the cart
+2022-02-21 21:46:17,830 - logger_File -INFO - User clicked on cart option
+2022-02-21 21:46:20,968 - logger_File -INFO - user clicked on red X button to remove the item from cart
+2022-02-21 21:46:21,094 - logger_File -INFO - item removed
+2022-02-21 21:46:21,909 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-02-21 21:46:21,922 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-21 21:46:25,648 - logger_File -INFO - User can see Retail website this
+2022-02-21 21:46:25,781 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-21 21:46:26,254 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-21 21:46:26,317 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2022-02-21 21:46:26,395 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook Air
+2022-02-21 21:46:26,653 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-02-21 21:46:29,090 - logger_File -INFO - User clicked on Product comparison link
+2022-02-21 21:46:29,331 - logger_File -INFO - User can see Product Comparison Chart
+2022-02-21 21:46:30,193 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-02-21 21:46:30,210 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-21 21:46:33,116 - logger_File -INFO - User can see Retail website this
+2022-02-21 21:46:33,257 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-21 21:46:33,731 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-21 21:46:33,789 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-02-21 21:46:33,918 - logger_File -INFO - Text verified!
+2022-02-21 21:46:34,137 - logger_File -INFO - User can get a message ‘You must login or create an account to save Sony VAIO to your wish list!’
+2022-02-21 21:46:34,878 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-21 21:46:34,892 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-21 21:46:37,482 - logger_File -INFO - User can see Retail website this
+2022-02-21 21:46:37,643 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-21 21:46:38,125 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-21 21:46:39,242 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2022-02-21 21:46:39,272 - logger_File -INFO - Price verified!
+2022-02-21 21:46:39,409 - logger_File -INFO - User should see 'dolarSign two thousands' price tag is present on UI
+2022-02-21 21:46:44,235 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-21 21:46:44,246 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-21 21:46:48,178 - logger_File -INFO - Text verified!
+2022-02-21 21:46:48,179 - logger_File -INFO - Homepage validated successfully
+2022-02-21 21:46:49,105 - logger_File -INFO - My account button was clicked successfully
+2022-02-21 21:46:50,746 - logger_File -INFO - Register button was clicked successfully
+2022-02-21 21:46:52,633 - logger_File -INFO - User data entered successfully
+2022-02-21 21:46:55,384 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-21 21:46:56,411 - logger_File -INFO - Continue button clicked successfully
+2022-02-21 21:47:03,121 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-02-21 21:47:03,147 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-21 21:47:06,660 - logger_File -INFO - Home validated successfully
+2022-02-21 21:47:06,726 - logger_File -INFO - User clicked  on MyAccount
+2022-02-21 21:47:07,193 - logger_File -INFO - User clicked on Login
+2022-02-21 21:47:07,395 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-21 21:47:07,742 - logger_File -INFO - User clicked on Login button
+2022-02-21 21:47:08,558 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-21 21:47:08,570 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-21 21:47:11,752 - logger_File -INFO - Home validated successfully
+2022-02-21 21:47:11,828 - logger_File -INFO - User clicked  on MyAccount
+2022-02-21 21:47:12,162 - logger_File -INFO - User clicked on Login
+2022-02-21 21:47:12,418 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-21 21:47:12,744 - logger_File -INFO - User clicked on Login button
+2022-02-21 21:47:13,631 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-02-21 21:47:13,643 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-21 21:47:16,919 - logger_File -INFO - Home validated successfully
+2022-02-21 21:47:16,990 - logger_File -INFO - User clicked  on MyAccount
+2022-02-21 21:47:17,342 - logger_File -INFO - User clicked on Login
+2022-02-21 21:47:17,563 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-21 21:47:17,829 - logger_File -INFO - User clicked on Login button
+2022-02-21 21:47:18,666 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-02-21 22:04:56,223 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-21 22:05:01,990 - logger_File -INFO - Home validated successfully
+2022-02-21 22:05:02,241 - logger_File -INFO - User clicked on currency successfuly! 
+2022-02-21 22:05:02,332 - logger_File -INFO - Currency was selected successfully
+2022-02-21 22:05:02,361 - logger_File -INFO - Currency value changed successfuly!
+2022-02-21 22:05:03,442 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-21 22:05:03,464 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-21 22:05:07,367 - logger_File -INFO - Home validated successfully
+2022-02-21 22:05:10,922 - logger_File -INFO - User clicked on shopping cart successfuly!
+2022-02-21 22:05:11,000 - logger_File -INFO - Cart is emty!
+2022-02-21 22:05:12,888 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-02-21 22:05:12,951 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-21 22:05:18,636 - logger_File -INFO - Home validated successfully
+2022-02-21 22:05:18,907 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-21 22:05:20,109 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-21 22:05:27,597 - logger_File -INFO - User can see size of items successfuly!
+2022-02-21 22:05:28,704 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-21 22:05:28,733 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-21 22:05:32,615 - logger_File -INFO - Home validated successfully
+2022-02-21 22:05:32,713 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-21 22:05:33,424 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-21 22:05:33,495 - logger_File -INFO - Enterd to HPLP by cliking add to cart button successfully!
+2022-02-21 22:05:35,196 - logger_File -INFO - User selected quantity successfuly!
+2022-02-21 22:05:36,084 - logger_File -INFO - Clicked on add to cart Button2 successfuly!
+2022-02-21 22:05:41,280 - logger_File -INFO - Success message showing and taken screenshot successfully!
+2022-02-21 22:05:46,158 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-02-21 22:05:46,184 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-21 22:05:50,042 - logger_File -INFO - Home validated successfully
+2022-02-21 22:05:50,108 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-21 22:05:50,914 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-21 22:05:50,979 - logger_File -INFO - User clicked  ADD TO CART option on ‘Canon EOS 5D’ item successfuly! 
+2022-02-21 22:06:00,231 - logger_File -INFO - User select color from dropdown Red successfuly! 
+2022-02-21 22:06:00,407 - logger_File -INFO - User selected quantity successfuly!
+2022-02-21 22:06:00,506 - logger_File -INFO - User click added to Cart buttonn successfuly!
+2022-02-21 22:06:04,126 - logger_File -INFO - User can see a message ‘Success: You have added Canon EOS 5D to your shopping cart! successfuly!
+2022-02-21 22:06:04,939 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-21 22:06:04,960 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-21 22:06:08,958 - logger_File -INFO - Home validated successfully
+2022-02-21 22:06:09,086 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-21 22:06:10,005 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-21 22:06:15,361 - logger_File -INFO - User clicked on Canon EOS 5D item successfuly!
+2022-02-21 22:06:15,725 - logger_File -INFO - User clicked on write a review link successfuly!
+2022-02-21 22:06:16,696 - logger_File -INFO - User filled the review information with below information successfuly!
+2022-02-21 22:06:17,011 - logger_File -INFO - User clicked on Continue Button successfuly!
+2022-02-21 22:06:20,122 - logger_File -INFO - User can see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval. Succesfuly!
+2022-02-21 22:06:24,908 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-02-21 22:06:24,955 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-21 22:06:28,412 - logger_File -INFO - User can see Retail website this
+2022-02-21 22:06:28,584 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-21 22:06:29,362 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-21 22:06:30,784 - logger_File -INFO - User clicked on MacBook  item
+2022-02-21 22:06:30,976 - logger_File -INFO - User clicked add to Cart button this
+2022-02-21 22:06:31,178 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-02-21 22:06:34,230 - logger_File -INFO - User should see '1 item(s) - $602.00' showed to the cart
+2022-02-21 22:06:37,460 - logger_File -INFO - User clicked on cart option
+2022-02-21 22:06:40,766 - logger_File -INFO - user clicked on red X button to remove the item from cart
+2022-02-21 22:06:40,953 - logger_File -INFO - item removed
+2022-02-21 22:06:41,861 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-02-21 22:06:41,884 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-21 22:06:45,800 - logger_File -INFO - User can see Retail website this
+2022-02-21 22:06:46,236 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-21 22:06:47,259 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-21 22:06:47,457 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2022-02-21 22:06:49,558 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-02-21 22:06:49,572 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-21 22:06:53,565 - logger_File -INFO - User can see Retail website this
+2022-02-21 22:06:53,794 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-21 22:06:54,280 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-21 22:06:54,353 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-02-21 22:06:54,530 - logger_File -INFO - Text verified!
+2022-02-21 22:06:54,862 - logger_File -INFO - User can get a message ‘You must login or create an account to save Sony VAIO to your wish list!’
+2022-02-21 22:06:55,736 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-21 22:06:55,748 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-21 22:07:00,683 - logger_File -INFO - User can see Retail website this
+2022-02-21 22:07:00,914 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-21 22:07:01,516 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-21 22:07:03,133 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2022-02-21 22:07:03,167 - logger_File -INFO - Price verified!
+2022-02-21 22:07:03,334 - logger_File -INFO - User should see 'dolarSign two thousands' price tag is present on UI
+2022-02-21 22:07:08,171 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-21 22:07:08,186 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-21 22:07:11,924 - logger_File -INFO - Text verified!
+2022-02-21 22:07:11,924 - logger_File -INFO - Homepage validated successfully
+2022-02-21 22:07:12,298 - logger_File -INFO - My account button was clicked successfully
+2022-02-21 22:07:13,200 - logger_File -INFO - Register button was clicked successfully
+2022-02-21 22:07:14,700 - logger_File -INFO - User data entered successfully
+2022-02-21 22:07:16,783 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-21 22:07:17,420 - logger_File -INFO - Continue button clicked successfully
+2022-02-21 22:07:24,226 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-02-21 22:07:24,247 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-21 22:07:30,168 - logger_File -INFO - Home validated successfully
+2022-02-21 22:07:30,285 - logger_File -INFO - User clicked  on MyAccount
+2022-02-21 22:07:31,128 - logger_File -INFO - User clicked on Login
+2022-02-21 22:07:31,534 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-21 22:07:32,060 - logger_File -INFO - User clicked on Login button
+2022-02-21 22:07:33,076 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-21 22:07:33,093 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-21 22:07:36,755 - logger_File -INFO - Home validated successfully
+2022-02-21 22:07:36,888 - logger_File -INFO - User clicked  on MyAccount
+2022-02-21 22:07:37,264 - logger_File -INFO - User clicked on Login
+2022-02-21 22:07:37,573 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-21 22:07:38,148 - logger_File -INFO - User clicked on Login button
+2022-02-21 22:07:39,054 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-02-21 22:07:39,060 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-21 22:07:42,643 - logger_File -INFO - Home validated successfully
+2022-02-21 22:07:42,775 - logger_File -INFO - User clicked  on MyAccount
+2022-02-21 22:07:43,273 - logger_File -INFO - User clicked on Login
+2022-02-21 22:07:43,647 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-21 22:07:43,967 - logger_File -INFO - User clicked on Login button
+2022-02-21 22:07:45,244 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-02-22 19:01:02,501 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-22 19:01:08,387 - logger_File -INFO - Home validated successfully
+2022-02-22 19:01:08,572 - logger_File -INFO - User clicked on currency successfuly! 
+2022-02-22 19:01:08,673 - logger_File -INFO - Currency was selected successfully
+2022-02-22 19:01:08,703 - logger_File -INFO - Currency value changed successfuly!
+2022-02-22 19:01:09,670 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-22 19:01:09,702 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-22 19:01:13,669 - logger_File -INFO - Home validated successfully
+2022-02-22 19:01:17,197 - logger_File -INFO - User clicked on shopping cart successfuly!
+2022-02-22 19:01:17,241 - logger_File -INFO - Cart is emty!
+2022-02-22 19:01:18,397 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-02-22 19:01:18,424 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-22 19:01:22,244 - logger_File -INFO - Home validated successfully
+2022-02-22 19:01:22,314 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-22 19:01:23,008 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-22 19:01:30,081 - logger_File -INFO - User can see size of items successfuly!
+2022-02-22 19:01:30,880 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-22 19:01:30,898 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-22 19:01:34,266 - logger_File -INFO - Home validated successfully
+2022-02-22 19:01:34,365 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-22 19:01:35,178 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-22 19:01:35,258 - logger_File -INFO - Enterd to HPLP by cliking add to cart button successfully!
+2022-02-22 19:01:37,131 - logger_File -INFO - User selected quantity successfuly!
+2022-02-22 19:01:37,480 - logger_File -INFO - Clicked on add to cart Button2 successfuly!
+2022-02-22 19:01:42,660 - logger_File -INFO - Success message showing and taken screenshot successfully!
+2022-02-22 19:01:47,526 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-02-22 19:01:47,538 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-22 19:01:50,752 - logger_File -INFO - Home validated successfully
+2022-02-22 19:01:50,824 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-22 19:01:51,390 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-22 19:01:51,445 - logger_File -INFO - User clicked  ADD TO CART option on ‘Canon EOS 5D’ item successfuly! 
+2022-02-22 19:02:00,684 - logger_File -INFO - User select color from dropdown Red successfuly! 
+2022-02-22 19:02:00,857 - logger_File -INFO - User selected quantity successfuly!
+2022-02-22 19:02:00,945 - logger_File -INFO - User click added to Cart buttonn successfuly!
+2022-02-22 19:02:04,367 - logger_File -INFO - User can see a message ‘Success: You have added Canon EOS 5D to your shopping cart! successfuly!
+2022-02-22 19:02:09,181 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-22 19:02:09,203 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-22 19:02:12,825 - logger_File -INFO - Home validated successfully
+2022-02-22 19:02:12,887 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-22 19:02:13,470 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-22 19:02:18,016 - logger_File -INFO - User clicked on Canon EOS 5D item successfuly!
+2022-02-22 19:02:18,490 - logger_File -INFO - User clicked on write a review link successfuly!
+2022-02-22 19:02:19,008 - logger_File -INFO - User filled the review information with below information successfuly!
+2022-02-22 19:02:19,166 - logger_File -INFO - User clicked on Continue Button successfuly!
+2022-02-22 19:02:22,257 - logger_File -INFO - User can see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval. Succesfuly!
+2022-02-22 19:02:23,095 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-02-22 19:02:23,119 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-22 19:02:25,957 - logger_File -INFO - User can see Retail website this
+2022-02-22 19:02:26,163 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-22 19:02:26,698 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-22 19:02:28,005 - logger_File -INFO - User clicked on MacBook  item
+2022-02-22 19:02:28,193 - logger_File -INFO - User clicked add to Cart button this
+2022-02-22 19:02:28,372 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-02-22 19:02:36,176 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-22 19:02:36,199 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-22 19:02:39,098 - logger_File -INFO - User can see Retail website this
+2022-02-22 19:02:39,307 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-22 19:02:39,764 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-22 19:02:39,832 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2022-02-22 19:02:39,894 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook Air
+2022-02-22 19:02:40,105 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-02-22 19:02:42,690 - logger_File -INFO - User clicked on Product comparison link
+2022-02-22 19:02:42,936 - logger_File -INFO - User can see Product Comparison Chart
+2022-02-22 19:02:43,975 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-02-22 19:02:43,982 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-22 19:02:46,849 - logger_File -INFO - User can see Retail website this
+2022-02-22 19:02:47,023 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-22 19:02:47,603 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-22 19:02:47,695 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-02-22 19:02:47,817 - logger_File -INFO - Text verified!
+2022-02-22 19:02:48,034 - logger_File -INFO - User can get a message ‘You must login or create an account to save Sony VAIO to your wish list!’
+2022-02-22 19:02:48,735 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-22 19:02:48,745 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-22 19:02:51,972 - logger_File -INFO - User can see Retail website this
+2022-02-22 19:02:52,236 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-22 19:02:52,951 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-22 19:02:54,260 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2022-02-22 19:02:54,294 - logger_File -INFO - Price verified!
+2022-02-22 19:02:54,434 - logger_File -INFO - User should see 'dolarSign two thousands' price tag is present on UI
+2022-02-22 19:02:59,212 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-22 19:02:59,230 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-22 19:03:02,242 - logger_File -INFO - Text verified!
+2022-02-22 19:03:02,242 - logger_File -INFO - Homepage validated successfully
+2022-02-22 19:03:02,467 - logger_File -INFO - My account button was clicked successfully
+2022-02-22 19:03:03,370 - logger_File -INFO - Register button was clicked successfully
+2022-02-22 19:03:03,998 - logger_File -INFO - User data entered successfully
+2022-02-22 19:03:06,101 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-22 19:03:06,480 - logger_File -INFO - Continue button clicked successfully
+2022-02-22 19:03:13,212 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-02-22 19:03:13,228 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-22 19:03:16,329 - logger_File -INFO - Home validated successfully
+2022-02-22 19:03:16,396 - logger_File -INFO - User clicked  on MyAccount
+2022-02-22 19:03:16,718 - logger_File -INFO - User clicked on Login
+2022-02-22 19:03:16,967 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-22 19:03:17,232 - logger_File -INFO - User clicked on Login button
+2022-02-22 19:03:18,009 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-22 19:03:18,019 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-22 19:03:21,050 - logger_File -INFO - Home validated successfully
+2022-02-22 19:03:21,111 - logger_File -INFO - User clicked  on MyAccount
+2022-02-22 19:03:21,461 - logger_File -INFO - User clicked on Login
+2022-02-22 19:03:21,699 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-22 19:03:21,990 - logger_File -INFO - User clicked on Login button
+2022-02-22 19:03:22,775 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-02-22 19:03:22,785 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-22 19:03:25,748 - logger_File -INFO - Home validated successfully
+2022-02-22 19:03:25,911 - logger_File -INFO - User clicked  on MyAccount
+2022-02-22 19:03:26,271 - logger_File -INFO - User clicked on Login
+2022-02-22 19:03:26,563 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-22 19:03:26,876 - logger_File -INFO - User clicked on Login button
+2022-02-22 19:03:27,680 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-02-22 22:21:41,434 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-22 22:21:48,745 - logger_File -INFO - Home validated successfully
+2022-02-22 22:21:48,933 - logger_File -INFO - User clicked on currency successfuly! 
+2022-02-22 22:21:49,037 - logger_File -INFO - Currency was selected successfully
+2022-02-22 22:21:49,072 - logger_File -INFO - Currency value changed successfuly!
+2022-02-22 22:21:50,125 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-22 22:21:50,162 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-22 22:21:53,918 - logger_File -INFO - Home validated successfully
+2022-02-22 22:21:57,315 - logger_File -INFO - User clicked on shopping cart successfuly!
+2022-02-22 22:21:57,414 - logger_File -INFO - Cart is emty!
+2022-02-22 22:21:58,316 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-02-22 22:21:58,352 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-22 22:22:02,048 - logger_File -INFO - Home validated successfully
+2022-02-22 22:22:02,151 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-22 22:22:02,918 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-22 22:22:09,611 - logger_File -INFO - User can see size of items successfuly!
+2022-02-22 22:22:10,405 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-22 22:22:10,423 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-22 22:22:14,013 - logger_File -INFO - Home validated successfully
+2022-02-22 22:22:14,098 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-22 22:22:14,723 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-22 22:22:14,810 - logger_File -INFO - Enterd to HPLP by cliking add to cart button successfully!
+2022-02-22 22:22:16,453 - logger_File -INFO - User selected quantity successfuly!
+2022-02-22 22:22:16,981 - logger_File -INFO - Clicked on add to cart Button2 successfuly!
+2022-02-22 22:22:22,166 - logger_File -INFO - Success message showing and taken screenshot successfully!
+2022-02-22 22:22:26,927 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-02-22 22:22:26,940 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-22 22:22:30,053 - logger_File -INFO - Home validated successfully
+2022-02-22 22:22:30,146 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-22 22:22:30,800 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-22 22:22:30,861 - logger_File -INFO - User clicked  ADD TO CART option on ‘Canon EOS 5D’ item successfuly! 
+2022-02-22 22:22:40,049 - logger_File -INFO - User select color from dropdown Red successfuly! 
+2022-02-22 22:22:40,281 - logger_File -INFO - User selected quantity successfuly!
+2022-02-22 22:22:40,411 - logger_File -INFO - User click added to Cart buttonn successfuly!
+2022-02-22 22:22:43,728 - logger_File -INFO - User can see a message ‘Success: You have added Canon EOS 5D to your shopping cart! successfuly!
+2022-02-22 22:22:48,478 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-22 22:22:48,495 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-22 22:22:51,546 - logger_File -INFO - Home validated successfully
+2022-02-22 22:22:51,610 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-22 22:22:52,215 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-22 22:22:56,677 - logger_File -INFO - User clicked on Canon EOS 5D item successfuly!
+2022-02-22 22:22:56,777 - logger_File -INFO - User clicked on write a review link successfuly!
+2022-02-22 22:22:57,358 - logger_File -INFO - User filled the review information with below information successfuly!
+2022-02-22 22:22:57,458 - logger_File -INFO - User clicked on Continue Button successfuly!
+2022-02-22 22:23:00,570 - logger_File -INFO - User can see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval. Succesfuly!
+2022-02-22 22:23:05,345 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-02-22 22:23:05,359 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-22 22:23:08,212 - logger_File -INFO - User can see Retail website this
+2022-02-22 22:23:08,404 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-22 22:23:08,916 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-22 22:23:10,288 - logger_File -INFO - User clicked on MacBook  item
+2022-02-22 22:23:10,635 - logger_File -INFO - User clicked add to Cart button this
+2022-02-22 22:23:10,791 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-02-22 22:23:13,835 - logger_File -INFO - User should see '1 item(s) - $602.00' showed to the cart
+2022-02-22 22:23:17,009 - logger_File -INFO - User clicked on cart option
+2022-02-22 22:23:20,150 - logger_File -INFO - user clicked on red X button to remove the item from cart
+2022-02-22 22:23:20,271 - logger_File -INFO - item removed
+2022-02-22 22:23:25,096 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-02-22 22:23:25,115 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-22 22:23:29,566 - logger_File -INFO - User can see Retail website this
+2022-02-22 22:23:29,745 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-22 22:23:30,242 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-22 22:23:30,317 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2022-02-22 22:23:30,419 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook Air
+2022-02-22 22:23:30,652 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-02-22 22:23:33,024 - logger_File -INFO - User clicked on Product comparison link
+2022-02-22 22:23:33,263 - logger_File -INFO - User can see Product Comparison Chart
+2022-02-22 22:23:33,988 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-02-22 22:23:34,000 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-22 22:23:37,117 - logger_File -INFO - User can see Retail website this
+2022-02-22 22:23:37,242 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-22 22:23:37,789 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-22 22:23:37,900 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-02-22 22:23:38,025 - logger_File -INFO - Text verified!
+2022-02-22 22:23:38,255 - logger_File -INFO - User can get a message ‘You must login or create an account to save Sony VAIO to your wish list!’
+2022-02-22 22:23:38,985 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-22 22:23:39,003 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-22 22:23:42,059 - logger_File -INFO - User can see Retail website this
+2022-02-22 22:23:42,191 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-22 22:23:42,846 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-22 22:23:44,961 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2022-02-22 22:23:45,007 - logger_File -INFO - Price verified!
+2022-02-22 22:23:45,138 - logger_File -INFO - User should see 'dolarSign two thousands' price tag is present on UI
+2022-02-22 22:23:49,844 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-22 22:23:49,861 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-22 22:23:52,884 - logger_File -INFO - Text verified!
+2022-02-22 22:23:52,884 - logger_File -INFO - Homepage validated successfully
+2022-02-22 22:23:53,115 - logger_File -INFO - My account button was clicked successfully
+2022-02-22 22:23:53,973 - logger_File -INFO - Register button was clicked successfully
+2022-02-22 22:23:54,619 - logger_File -INFO - User data entered successfully
+2022-02-22 22:23:56,701 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-22 22:23:57,068 - logger_File -INFO - Continue button clicked successfully
+2022-02-22 22:24:03,841 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-02-22 22:24:03,854 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-22 22:24:06,924 - logger_File -INFO - Home validated successfully
+2022-02-22 22:24:06,994 - logger_File -INFO - User clicked  on MyAccount
+2022-02-22 22:24:07,355 - logger_File -INFO - User clicked on Login
+2022-02-22 22:24:07,560 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-22 22:24:07,842 - logger_File -INFO - User clicked on Login button
+2022-02-22 22:24:08,569 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-22 22:24:08,585 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-22 22:24:11,713 - logger_File -INFO - Home validated successfully
+2022-02-22 22:24:11,783 - logger_File -INFO - User clicked  on MyAccount
+2022-02-22 22:24:12,187 - logger_File -INFO - User clicked on Login
+2022-02-22 22:24:12,420 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-22 22:24:12,696 - logger_File -INFO - User clicked on Login button
+2022-02-22 22:24:13,430 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-02-22 22:24:13,438 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-22 22:24:16,479 - logger_File -INFO - Home validated successfully
+2022-02-22 22:24:16,531 - logger_File -INFO - User clicked  on MyAccount
+2022-02-22 22:24:16,915 - logger_File -INFO - User clicked on Login
+2022-02-22 22:24:17,164 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-22 22:24:17,457 - logger_File -INFO - User clicked on Login button
+2022-02-22 22:24:18,215 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-02-25 19:04:52,967 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-25 19:05:01,884 - logger_File -INFO - Home validated successfully
+2022-02-25 19:05:02,257 - logger_File -INFO - User clicked on currency successfuly! 
+2022-02-25 19:05:02,344 - logger_File -INFO - Currency was selected successfully
+2022-02-25 19:05:02,374 - logger_File -INFO - Currency value changed successfuly!
+2022-02-25 19:05:03,217 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-25 19:05:03,288 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-25 19:05:07,056 - logger_File -INFO - Home validated successfully
+2022-02-25 19:05:11,333 - logger_File -INFO - User clicked on shopping cart successfuly!
+2022-02-25 19:05:11,390 - logger_File -INFO - Cart is emty!
+2022-02-25 19:05:12,478 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-02-25 19:05:12,530 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-25 19:05:24,941 - logger_File -INFO - Home validated successfully
+2022-02-25 19:05:25,012 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-25 19:05:25,881 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-25 19:05:32,382 - logger_File -INFO - User can see size of items successfuly!
+2022-02-25 19:05:33,126 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-25 19:05:33,144 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-25 19:05:36,340 - logger_File -INFO - Home validated successfully
+2022-02-25 19:05:36,398 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-25 19:05:37,026 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-25 19:05:37,115 - logger_File -INFO - Enterd to HPLP by cliking add to cart button successfully!
+2022-02-25 19:05:38,856 - logger_File -INFO - User selected quantity successfuly!
+2022-02-25 19:05:39,195 - logger_File -INFO - Clicked on add to cart Button2 successfuly!
+2022-02-25 19:05:44,374 - logger_File -INFO - Success message showing and taken screenshot successfully!
+2022-02-25 19:05:49,120 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-02-25 19:05:49,134 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-25 19:05:52,135 - logger_File -INFO - Home validated successfully
+2022-02-25 19:05:52,427 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-25 19:05:53,110 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-25 19:05:53,242 - logger_File -INFO - User clicked  ADD TO CART option on ‘Canon EOS 5D’ item successfuly! 
+2022-02-25 19:06:02,423 - logger_File -INFO - User select color from dropdown Red successfuly! 
+2022-02-25 19:06:02,610 - logger_File -INFO - User selected quantity successfuly!
+2022-02-25 19:06:02,744 - logger_File -INFO - User click added to Cart buttonn successfuly!
+2022-02-25 19:06:07,699 - logger_File -INFO - User can see a message ‘Success: You have added Canon EOS 5D to your shopping cart! successfuly!
+2022-02-25 19:06:12,457 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-25 19:06:12,506 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-25 19:06:23,035 - logger_File -INFO - Home validated successfully
+2022-02-25 19:06:23,090 - logger_File -INFO - Clicked on desktop successfuly!
+2022-02-25 19:06:24,674 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-02-25 19:06:36,618 - logger_File -INFO - User clicked on Canon EOS 5D item successfuly!
+2022-02-25 19:06:36,740 - logger_File -INFO - User clicked on write a review link successfuly!
+2022-02-25 19:06:37,406 - logger_File -INFO - User filled the review information with below information successfuly!
+2022-02-25 19:06:37,637 - logger_File -INFO - User clicked on Continue Button successfuly!
+2022-02-25 19:06:40,783 - logger_File -INFO - User can see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval. Succesfuly!
+2022-02-25 19:06:45,566 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-02-25 19:06:45,582 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-25 19:06:59,480 - logger_File -INFO - User can see Retail website this
+2022-02-25 19:06:59,677 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-25 19:07:01,153 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-25 19:07:10,002 - logger_File -INFO - User clicked on MacBook  item
+2022-02-25 19:07:10,139 - logger_File -INFO - User clicked add to Cart button this
+2022-02-25 19:07:10,250 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-02-25 19:07:18,036 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-25 19:07:18,053 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-25 19:07:29,772 - logger_File -INFO - User can see Retail website this
+2022-02-25 19:07:29,923 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-25 19:07:31,667 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-25 19:07:31,727 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2022-02-25 19:07:31,797 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook Air
+2022-02-25 19:07:31,971 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-02-25 19:07:35,494 - logger_File -INFO - User clicked on Product comparison link
+2022-02-25 19:07:35,695 - logger_File -INFO - User can see Product Comparison Chart
+2022-02-25 19:07:36,467 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-02-25 19:07:36,497 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-25 19:07:49,372 - logger_File -INFO - User can see Retail website this
+2022-02-25 19:07:49,518 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-25 19:07:50,760 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-25 19:07:50,814 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-02-25 19:07:51,494 - logger_File -INFO - Text verified!
+2022-02-25 19:07:51,628 - logger_File -INFO - User can get a message ‘You must login or create an account to save Sony VAIO to your wish list!’
+2022-02-25 19:07:52,318 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-25 19:07:52,354 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-25 19:08:04,772 - logger_File -INFO - User can see Retail website this
+2022-02-25 19:08:04,924 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-02-25 19:08:06,835 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-02-25 19:08:13,998 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2022-02-25 19:08:14,031 - logger_File -INFO - Price verified!
+2022-02-25 19:08:14,146 - logger_File -INFO - User should see 'dolarSign two thousands' price tag is present on UI
+2022-02-25 19:08:18,926 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-25 19:08:18,950 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-25 19:08:28,977 - logger_File -INFO - Text verified!
+2022-02-25 19:08:28,977 - logger_File -INFO - Homepage validated successfully
+2022-02-25 19:08:29,214 - logger_File -INFO - My account button was clicked successfully
+2022-02-25 19:08:31,388 - logger_File -INFO - Register button was clicked successfully
+2022-02-25 19:08:32,061 - logger_File -INFO - User data entered successfully
+2022-02-25 19:08:34,149 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-25 19:08:34,908 - logger_File -INFO - Continue button clicked successfully
+2022-02-25 19:08:41,598 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-02-25 19:08:41,616 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-25 19:08:51,607 - logger_File -INFO - Home validated successfully
+2022-02-25 19:08:51,687 - logger_File -INFO - User clicked  on MyAccount
+2022-02-25 19:08:52,518 - logger_File -INFO - User clicked on Login
+2022-02-25 19:08:52,723 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-25 19:08:53,455 - logger_File -INFO - User clicked on Login button
+2022-02-25 19:08:54,163 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-25 19:08:54,172 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-25 19:09:10,533 - logger_File -INFO - Home validated successfully
+2022-02-25 19:09:10,638 - logger_File -INFO - User clicked  on MyAccount
+2022-02-25 19:09:11,616 - logger_File -INFO - User clicked on Login
+2022-02-25 19:09:11,864 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-25 19:09:12,433 - logger_File -INFO - User clicked on Login button
+2022-02-25 19:09:13,348 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-02-25 19:09:13,366 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-25 19:09:26,116 - logger_File -INFO - Home validated successfully
+2022-02-25 19:09:26,214 - logger_File -INFO - User clicked  on MyAccount
+2022-02-25 19:09:27,073 - logger_File -INFO - User clicked on Login
+2022-02-25 19:09:27,529 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-02-25 19:09:28,360 - logger_File -INFO - User clicked on Login button
+2022-02-25 19:09:29,176 - logger_File -INFO - Scenario Edit your account Information FAILED
